@@ -1,0 +1,29 @@
+{
+  "name": "advanced-restful-api",
+  "version": "1.0.0",
+  "description": "restfulAPI API advancedAPI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassin2doost/Advanced-Restful-Api.git"
+  },
+  "keywords": [
+    "restapi",
+    "rest",
+    "api",
+    "restfulapi",
+    "jwt",
+    "passport",
+    "ACL",
+    "nodejs"
+  ],
+  "author": "DDS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yassin2doost/Advanced-Restful-Api/issues"
+  },
+  "homepage": "https://github.com/yassin2doost/Advanced-Restful-Api#readme"
+}
